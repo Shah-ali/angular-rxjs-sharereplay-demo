@@ -1,3 +1,3 @@
-# angular-rxjs-sharereplay-demo
+# angular-rxjs-sharereplay
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-rxjs-sharereplay-demo-mxbywd)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-rxjs-sharereplay)
